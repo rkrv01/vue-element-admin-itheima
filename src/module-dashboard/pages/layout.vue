@@ -11,7 +11,7 @@
             <svg-icon icon-class="github"></svg-icon>
           </a>
         </p>
-        <p>Copyright<svg-icon icon-class="copyright"></svg-icon> 2018 传智研究院出品</p>
+        <p>Copyright<svg-icon icon-class="copyright"></svg-icon> xxxx</p>
       </div>
 		</div>
 	</div>
